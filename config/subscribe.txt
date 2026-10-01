@@ -7,7 +7,6 @@
 https://gitee.com/hw2837/iptv/raw/master/iptv
 https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
-https://taoiptv.com/lives/44025.txt?token=f5ff16cbe41a1829
 https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
 https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
 https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/IPTV.m3u
