@@ -1,11 +1,6 @@
 💓常看频道,#genre#
 CNA
 CNN
-东方财经
-第一财经
-凤凰中文
-凤凰资讯
-凤凰香港
 Now新闻
 中天新闻
 
@@ -116,41 +111,6 @@ CETV-4
 新疆卫视
 云南卫视
 浙江卫视
-
-# ===香港===
-HOY77
-HOY78
-HKS香港卫视
-Now668
-NowJelli
-Now华剧台
-Now报价台
-Now新闻台
-Now爆谷星影台
-Now直播台
-Now财经台
-TVBJ2
-TVBPearl
-TVBPlus
-TVB互动新闻台
-TVB星河
-TVB经典台
-TVB翡翠台
-TVBS
-TVBS新闻台
-TVBS欢乐台
-TVBS精采台
-TVBS亚洲
-ViuTV
-ViuTVsix
-凤凰香港
-凤凰中文
-凤凰资讯
-凤凰电影
-明珠台
-美亚电影
-无线新闻
-翡翠台
 
 # ===台湾===
 三立台湾台
