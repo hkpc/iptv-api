@@ -2,3 +2,56 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+live.264788.xyz
+bp-resource-dfl.bestv.cn
+ali-m-l.cztv.com
+iptv.cqshushu.com
+107.150.60.122
+198.204.228.26
+204.12.221.218
+r.jdshipin.com
+cdn.qd.je
+45.192.97.170
+tv.iill.top
+10.fast.hidns.vip
+122.152.202.33
+php.jdshipin.com
+cdn.163189.xyz
+tv123.cc.cd
+cdn6.cc.cd
+38.75.136.137:98
+63.141.230.178:82
+192.151.150.154
+live.ottiptv.cc
+huya/26355860
+yy/1353873252
+31.43.191.125:8080
+154.12.37.196:5555
+serv00.bkpcp.top
+#广东经视混进广东民生
+173.208.234.146/live/gdtvs1
+# 北京财经闪动
+player.cntv.cn/standard
+# 广播
+a1live.livecdn.yicai.com
+ls.qingting.fm
+live.xmcdn.com
+120.24.194.118:10002/608780988
+live.kankanews.com
+117.72.81.164:3000
+8.135.27.147:1234
+playtv-live.ifeng.com
+# 无画面
+cfss.cc/cdn/dy/diyicaijing.flv
+kylintv.tv
+# 频道结果会全跳过
+kkk.jjjj.jiduo.me
+# 错误的都市剧场
+satellitepull.cnr.cn
+111.0.115.129:8081/live/222ztxw
+
+# 广告
+207.56.13.146:81
+#中学生混进CETV-3
+223.86.170.98:4500/rtp/239.11.0.247:5140
+222.92.158.110:9889/rtp/239.49.8.38:8000
